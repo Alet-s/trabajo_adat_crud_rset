@@ -3,7 +3,11 @@ import util.DBConnection;
 
 import java.sql.Connection;
 import java.sql.SQLException;
-
+/**@author Alejandro Serrano*/
+/**
+ * Clase main para realiza pruebas. El verdadero Main con la interfaz Swing
+ * se llama "MainFrame" en el paquete "view".
+ */
 public class Main {
 
 //    public static void main(String[] args) throws SQLException {

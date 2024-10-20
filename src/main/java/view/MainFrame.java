@@ -1,5 +1,7 @@
 package view;
-
+/**
+ * @author Alejandro Serrano con asistencia IA
+ */
 import dao.UsuarioBookDAO;
 import model.Book;
 import util.DBConnection;
